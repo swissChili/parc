@@ -1,0 +1,13 @@
+{
+  "name": "parc",
+  "version": "0.1.0",
+  "description": "parser combinator library",
+  "main": "index.js",
+  "author": "swissChili",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
