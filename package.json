@@ -9,5 +9,9 @@
   "dependencies": {},
   "devDependencies": {
     "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
   }
 }
